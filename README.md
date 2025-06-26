@@ -124,3 +124,8 @@ Solution: Saved sample summaries for manual review and used ROUGE scores for qua
 
 Conclusion
 The system effectively implements extractive and abstractive summarization using the provided CNN/Daily Mail dataset. BART provides more fluent and concise summaries, while extractive methods ensure factual accuracy. Future enhancements could involve fine-tuning BART and incorporating advanced coherence metrics like BERTScore.
+
+
+
+
+![image](https://github.com/user-attachments/assets/a925a0fc-05fb-4fe3-aaf2-bec421fc9b26)
